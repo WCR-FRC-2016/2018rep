@@ -125,6 +125,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="5492_AutonomousStraight.vi" Type="VI" URL="../5492_AutonomousStraight.vi"/>
+		<Item Name="5492_CollectMotor.vi" Type="VI" URL="../5492_CollectMotor.vi"/>
 		<Item Name="5492_DoYouEvenLift.vi" Type="VI" URL="../5492_DoYouEvenLift.vi"/>
 		<Item Name="5492_ManualLift.vi" Type="VI" URL="../5492_ManualLift.vi"/>
 		<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
