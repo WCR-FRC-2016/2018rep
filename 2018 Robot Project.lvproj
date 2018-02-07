@@ -41,6 +41,7 @@
 		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
 		<Property Name="host.TargetCPUID" Type="UInt">8</Property>
 		<Property Name="host.TargetOSID" Type="UInt">8</Property>
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
 		<Property Name="target.DoNotReboot" Type="Bool">true</Property>
 		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
@@ -125,8 +126,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="5492_AutonomousStraight.vi" Type="VI" URL="../5492_AutonomousStraight.vi"/>
-		<Item Name="5492_CollectMotor.vi" Type="VI" URL="../5492_CollectMotor.vi"/>
 		<Item Name="5492_DoYouEvenLift.vi" Type="VI" URL="../5492_DoYouEvenLift.vi"/>
+		<Item Name="5492_CollectMotor.vi" Type="VI" URL="../5492_CollectMotor.vi"/>
 		<Item Name="5492_ManualLift.vi" Type="VI" URL="../5492_ManualLift.vi"/>
 		<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 		<Item Name="5492_RotateCube.vi" Type="VI" URL="../5492_RotateCube.vi"/>
