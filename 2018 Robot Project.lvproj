@@ -131,13 +131,13 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_AutoSpit.vi" Type="VI" URL="../5492_AutoSpit.vi"/>
 		<Item Name="5492_AutoSpitNoPID.vi" Type="VI" URL="../5492_AutoSpitNoPID.vi"/>
 		<Item Name="5492_DoYouEvenLift.vi" Type="VI" URL="../5492_DoYouEvenLift.vi"/>
+		<Item Name="5492_SetLiftPID.vi" Type="VI" URL="../5492_SetLiftPID.vi"/>
 		<Item Name="5492_CollectMotor.vi" Type="VI" URL="../5492_CollectMotor.vi"/>
 		<Item Name="5492_LiftButtons.vi" Type="VI" URL="../5492_LiftButtons.vi"/>
 		<Item Name="5492_ManualLift.vi" Type="VI" URL="../5492_ManualLift.vi"/>
 		<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 		<Item Name="5492_PotPositionCheck.vi" Type="VI" URL="../5492_PotPositionCheck.vi"/>
 		<Item Name="5492_RotateCube.vi" Type="VI" URL="../5492_RotateCube.vi"/>
-		<Item Name="5492_SetLiftPID.vi" Type="VI" URL="../5492_SetLiftPID.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
 		<Item Name="5492_SpitButton.vi" Type="VI" URL="../5492_SpitButton.vi"/>
 		<Item Name="5492_StuckCheck.vi" Type="VI" URL="../5492_StuckCheck.vi"/>
@@ -774,7 +774,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">11</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
