@@ -159,6 +159,8 @@ AddOutputFilter chunkFilter
 		<Item Name="CTRE_Phoenix_MotorControl_ConfigNeutralDeadband.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Cross The Road Electronics/Phoenix-LabVIEW/Motor Controller/Output Config/CTRE_Phoenix_MotorControl_ConfigNeutralDeadband.vi"/>
 		<Item Name="5492_AutoSpitNoPIDHigh.vi" Type="VI" URL="../5492_AutoSpitNoPIDHigh.vi"/>
 		<Item Name="5492_SlowButton.vi" Type="VI" URL="../5492_SlowButton.vi"/>
+		<Item Name="5492_AutonomousStraightTuning.vi" Type="VI" URL="../5492_AutonomousStraightTuning.vi"/>
+		<Item Name="5492_AutonomousTurnTuning.vi" Type="VI" URL="../5492_AutonomousTurnTuning.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
