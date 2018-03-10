@@ -119,6 +119,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
+			<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
@@ -135,7 +136,6 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_CollectMotor.vi" Type="VI" URL="../5492_CollectMotor.vi"/>
 		<Item Name="5492_LiftButtons.vi" Type="VI" URL="../5492_LiftButtons.vi"/>
 		<Item Name="5492_ManualLift.vi" Type="VI" URL="../5492_ManualLift.vi"/>
-		<Item Name="5492_OpenOneMotor.vi" Type="VI" URL="../5492_OpenOneMotor.vi"/>
 		<Item Name="5492_PotPositionCheck.vi" Type="VI" URL="../5492_PotPositionCheck.vi"/>
 		<Item Name="5492_RotateCube.vi" Type="VI" URL="../5492_RotateCube.vi"/>
 		<Item Name="5492_SetTalonSensorPosSync.vi" Type="VI" URL="../5492_SetTalonSensorPosSync.vi"/>
