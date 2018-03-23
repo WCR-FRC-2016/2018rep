@@ -161,6 +161,8 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_SlowButton.vi" Type="VI" URL="../5492_SlowButton.vi"/>
 		<Item Name="5492_AutonomousStraightTuning.vi" Type="VI" URL="../5492_AutonomousStraightTuning.vi"/>
 		<Item Name="5492_AutonomousTurnTuning.vi" Type="VI" URL="../5492_AutonomousTurnTuning.vi"/>
+		<Item Name="5492_AutLiftNoPID.vi" Type="VI" URL="../5492_AutLiftNoPID.vi"/>
+		<Item Name="5492_AutoLiftNoPIDHigh.vi" Type="VI" URL="../5492_AutoLiftNoPIDHigh.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -760,6 +762,7 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="5492_AutoLiftNoPID.vi" Type="VI" URL="../5492_AutoLiftNoPID.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -778,7 +781,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">15</Property>
+				<Property Name="Bld_version.build" Type="Int">21</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
