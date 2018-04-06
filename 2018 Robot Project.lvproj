@@ -163,6 +163,7 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_AutonomousTurnTuning.vi" Type="VI" URL="../5492_AutonomousTurnTuning.vi"/>
 		<Item Name="5492_AutoLiftNoPIDHigh.vi" Type="VI" URL="../5492_AutoLiftNoPIDHigh.vi"/>
 		<Item Name="5492_DriveRamp.vi" Type="VI" URL="../5492_DriveRamp.vi"/>
+		<Item Name="5492_AutonomousTurnButBetter.vi" Type="VI" URL="../5492_AutonomousTurnButBetter.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -730,7 +731,6 @@ AddOutputFilter chunkFilter
 				<Item Name="CTRE_Phoenix_MotorControl_Follow.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Cross The Road Electronics/Phoenix-LabVIEW/Motor Controller/CTRE_Phoenix_MotorControl_Follow.vi"/>
 				<Item Name="Zero Yaw.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/ThirdParty/Sensors/navX/Set/Zero Yaw.vi"/>
 			</Item>
-			<Item Name="5492_AutonomousTurn.vi" Type="VI" URL="../5492_AutonomousTurn.vi"/>
 			<Item Name="5492_ButtonDebounced.vi" Type="VI" URL="../5492_ButtonDebounced.vi"/>
 			<Item Name="5492_ChangeMasterMode.vi" Type="VI" URL="../5492_ChangeMasterMode.vi"/>
 			<Item Name="5492_Deadband.vi" Type="VI" URL="../5492_Deadband.vi"/>
