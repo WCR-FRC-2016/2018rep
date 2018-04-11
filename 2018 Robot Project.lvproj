@@ -166,6 +166,9 @@ AddOutputFilter chunkFilter
 		<Item Name="5492_AutonomousTurnButBetter.vi" Type="VI" URL="../5492_AutonomousTurnButBetter.vi"/>
 		<Item Name="5492_ScaleAutoLeft.vi" Type="VI" URL="../5492_ScaleAutoLeft.vi"/>
 		<Item Name="5492_ScaleAutoRight.vi" Type="VI" URL="../5492_ScaleAutoRight.vi"/>
+		<Item Name="5492_CollectButtons.vi" Type="VI" URL="../5492_CollectButtons.vi"/>
+		<Item Name="5492_AutoDropNoPID.vi" Type="VI" URL="../5492_AutoDropNoPID.vi"/>
+		<Item Name="5492_AutoGrab.vi" Type="VI" URL="../5492_AutoGrab.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
